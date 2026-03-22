@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "CHILDAYS",
+  "base_artist": "BLOOM VASE",
+  "createdAt": "2026-03-22T05:48:13.485714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHILDAYS",
+      "artist": "BLOOM VASE",
+      "has_synced": true,
+      "path": "select/01_CHILDAYS_BLOOM_VASE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHILDAYS",
+      "artist": "BLOOM VASE",
+      "has_synced": false,
+      "path": "select/pl_01_CHILDAYS_BLOOM_VASE.txt"
+    }
+  ]
+}

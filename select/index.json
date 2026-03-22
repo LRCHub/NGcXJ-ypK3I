@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "CHILDAYS",
   "base_artist": "BLOOM VASE",
-  "createdAt": "2026-03-22T05:48:13.485714Z",
+  "createdAt": "2026-03-22T06:11:35.346888Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "BLOOM VASE",
       "has_synced": false,
       "path": "select/pl_01_CHILDAYS_BLOOM_VASE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "CHILDAYS",
+      "artist": "BLOOM VASE",
+      "has_synced": true,
+      "path": "select/localdb_01_CHILDAYS_BLOOM_VASE.lrc",
+      "repo_name": "NGcXJ-ypK3I"
     }
   ]
 }
